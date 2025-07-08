@@ -14,7 +14,7 @@
 ## 使用方法
 
 ```bash
-git clone https://github.com/showdo/build_oneplus_sm8750.git
+git clone https://github.com/lie-jiu/build_oneplus_sm8750.git
 ```
 
 > ⚠️ 注意：如果你想使用你复刻的项目进行编译，请将上面链接中的 `showdo` 改成你的 GitHub 用户名。  
